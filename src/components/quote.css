@@ -1,29 +1,4 @@
 .quote-wrapper_cont{
-    display: flex;
-    position:absolute;
-    top:50%;
-    left:50%;
-    transform: translate(-50%,-50%);
-    border: 1px dotted #FFA16A;
-    width:80%;
-    height:300px;
-    padding: 10px;
-    text-transform: capitalize;
-}
-
-.quote-wrapper_cont h1{
-    text-align: center;
-    margin: 0;
-    padding: 2em;
-}
-
-p{
-    font-size: 2em;
-    font-weight: 900;
-    float:right;
-    bottom:10px;
-    position:absolute;
-    left:75%;
-    text-align: center;
+    padding:10px;
 }
 
